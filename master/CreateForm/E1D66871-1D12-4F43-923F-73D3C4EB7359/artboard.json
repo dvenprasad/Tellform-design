@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "E1D66871-1D12-4F43-923F-73D3C4EB7359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 1440,
+    "x": 2953,
+    "y": -164
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "627893EF-C7CF-403F-B888-D300B11E7C76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8361EF5-0CAD-46F7-AF84-8325CCF699C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF58AE43-1D05-411F-B67A-FF62E32D9CF9"
+    },
+    {
+      "class": "text",
+      "id": "1CC5EFF6-C8BD-4E83-B565-373BC74ED969"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E45D72E0-88AC-4D64-AA47-F4003299CF0D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "613BB946-ABDE-43C0-A9DF-08A66562C996"
+    },
+    {
+      "class": "text",
+      "id": "48087985-118D-416F-84BC-FE36F6DA99A1"
+    },
+    {
+      "class": "text",
+      "id": "409B1541-658D-4BA9-97CD-750E3383F6F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88880AF8-0F01-48E9-A176-6E4B10520989"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B555988E-1B9C-42CA-97E8-0F4B1171EFE6"
+    },
+    {
+      "class": "text",
+      "id": "70B0D439-BC89-47DF-8683-362D25147D46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43A316AF-6FC4-49A2-A190-67B69F937DBA"
+    },
+    {
+      "class": "text",
+      "id": "D1897BF6-C14C-411E-92E9-896503364792"
+    },
+    {
+      "class": "text",
+      "id": "9A3C1B0E-934B-403D-AD4E-05615332E281"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABCB232A-EBCC-4995-B29C-92F6D5D20761"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75674BC0-7E34-47B8-9855-24C057E34755"
+    }
+  ],
+  "name": "Form Creation - From focus",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      493
+    ]
+  }
+}
