@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "08F7A51E-CE14-440A-A882-4B5FBA7831EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 242,
+    "width": 242,
+    "x": 215,
+    "y": 152
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "87C85054-A658-46C6-AFDF-5B54CB5A1CFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F3595AF-386E-4E7F-9CEA-E15AAFB5AB0E"
+    },
+    {
+      "class": "text",
+      "id": "D2C0F43B-3625-4A7B-8AB4-ED06A1A16FBE"
+    }
+  ],
+  "name": "CreateTile",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

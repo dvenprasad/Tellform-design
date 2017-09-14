@@ -35,16 +35,6 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.77499999999999991, 1}",
-        "curveMode": 4,
-        "curveTo": "{0.5, 1}",
-        "hasCurveFrom": true,
-        "hasCurveTo": false,
-        "point": "{0.5, 1}"
-      },
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
         "curveFrom": "{1, 0.22499999999999998}",
         "curveMode": 2,
         "curveTo": "{1, 0.77499999999999991}",
@@ -75,10 +65,10 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0.5, 1}",
+        "curveFrom": "{0.77499999999999991, 1}",
         "curveMode": 4,
         "curveTo": "{0.22500000000000009, 1}",
-        "hasCurveFrom": false,
+        "hasCurveFrom": true,
         "hasCurveTo": true,
         "point": "{0.5, 1}"
       }

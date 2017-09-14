@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1222,
+  "changeIdentifier": 3075,
   "do_objectID": "24BA99DB-80E5-4C7B-8492-1C5E58314BE9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 75,
+    "height": 73,
     "width": 54,
     "x": 588,
     "y": 0
@@ -35,25 +35,17 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B8D53B0C-8398-4453-96B8-33FD652EBDEE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7C11F87D-CF41-4258-B349-E7F9128CCBF2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "72359266-88AF-40C5-BC29-C4B507867769"
+      "id": "210B410B-E798-412F-ADC1-E90F154CFCD8"
     }
   ],
   "name": "Delete",
