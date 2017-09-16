@@ -1,6 +1,6 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "5F3595AF-386E-4E7F-9CEA-E15AAFB5AB0E",
+  "_class": "group",
+  "do_objectID": "1F960FF3-71E9-4019-9209-4BCE4490EB5B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,22 +13,24 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 113,
-    "width": 113,
-    "x": 65,
-    "y": 65
+    "height": 242,
+    "width": 242,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "CreateNew",
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D17F334C-50AF-440E-AF2C-118AB66B1C23"
+    }
+  ],
+  "name": "FormTile",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,7 +41,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "DB1BF5D4-5B89-4BAC-BB97-525F0BE7F8F3",
-  "verticalSpacing": 0
+  }
 }

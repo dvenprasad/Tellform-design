@@ -26,12 +26,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "87C85054-A658-46C6-AFDF-5B54CB5A1CFF"
+      "class": "group",
+      "id": "1F960FF3-71E9-4019-9209-4BCE4490EB5B"
     },
     {
-      "class": "symbolInstance",
-      "id": "5F3595AF-386E-4E7F-9CEA-E15AAFB5AB0E"
+      "class": "group",
+      "id": "8977A26B-3F0A-45C6-BBF9-C19D54B98560"
     },
     {
       "class": "text",
