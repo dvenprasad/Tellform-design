@@ -196,6 +196,7 @@
     "images": [
     ]
   },
+  "colorSpace": 0,
   "do_objectID": "23A65F52-4894-471D-96D9-D4138D61DFE3",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
@@ -209,6 +210,7 @@
   "pages": [
     "Page 1",
     "CreateForm",
+    "Add Question",
     "Styles",
     "Symbols"
   ],
