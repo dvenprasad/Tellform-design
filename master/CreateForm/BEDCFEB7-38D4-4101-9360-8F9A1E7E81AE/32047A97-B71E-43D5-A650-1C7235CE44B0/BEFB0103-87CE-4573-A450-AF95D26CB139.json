@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "28F41BFE-8729-4383-B953-1977E3965CAA",
+  "do_objectID": "BEFB0103-87CE-4573-A450-AF95D26CB139",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,8 +15,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 61,
-    "width": 61,
+    "height": 33.34782608695652,
+    "width": 33.34782608695652,
     "x": 0,
     "y": 0
   },
@@ -32,8 +32,6 @@
   "layerListExpandedType": 0,
   "name": "plus",
   "nameIsFixed": false,
-  "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
-  "nineSliceScale": "{0, 0}",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -47,9 +45,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9686274509803922,
-          "green": 0.6352941176470592,
-          "red": 0.2470588235294117
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,

@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "forms/secondary_button",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C843C8E6-63D5-42E3-9D1F-8C56A8DBA10E_stringValue",
+      "value": "Yes"
+    }
+  ],
   "overrides": {
     "C843C8E6-63D5-42E3-9D1F-8C56A8DBA10E": "Yes"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

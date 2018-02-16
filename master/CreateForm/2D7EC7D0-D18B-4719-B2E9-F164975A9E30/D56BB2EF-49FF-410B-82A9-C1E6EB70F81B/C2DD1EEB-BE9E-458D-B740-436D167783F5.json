@@ -30,12 +30,20 @@
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "forms/primary_button_normal",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D1897BF6-C14C-411E-92E9-896503364792_stringValue",
+      "value": "Create New Form"
+    }
+  ],
   "overrides": {
     "D1897BF6-C14C-411E-92E9-896503364792": "Create New Form"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
